@@ -1,0 +1,83 @@
+═══════════════════════════════════════════════════════════════
+  BUGINTEL - BRANDING & TEAM UPDATE QUICK REFERENCE
+═══════════════════════════════════════════════════════════════
+
+LOGIN CREDENTIALS:
+─────────────────
+Admin Email: admin@bugintel.com
+Password: Admin@123
+Admin Name: Muhammad Ali Sheikh
+
+DEVELOPER TEAM (3 members):
+──────────────────────────
+1. Muhammad Ali Sheikh
+   - Role: Lead Developer & Admin
+   - Email: admin@bugintel.com
+   - Avatar: /public/avatar-mas.jpg
+   - Bugs Resolved: 40 / Assigned: 42 (95%)
+
+2. Shaffan Asher  
+   - Role: Senior Backend Developer
+   - Email: shaffan@bugintel.com
+   - Avatar: /public/avatar-sa.jpg
+   - Bugs Resolved: 26 / Assigned: 28 (93%)
+
+3. Faraz Ahmad Butt
+   - Role: Full Stack Developer
+   - Email: faraz@bugintel.com
+   - Avatar: /public/avatar-fab.jpg
+   - Bugs Resolved: 33 / Assigned: 35 (94%)
+
+ASSETS CREATED:
+───────────────
+Logo: /public/logo-bugintel.jpg
+  - Professional bug-themed logo
+  - Used in sidebar and login page
+  - Replaces old "B" text logo
+
+Login Illustration: /public/login-illustration.png
+  - 2D developer workspace scene
+  - Professional, modern design
+  - Aligns with brand colors
+
+Developer Avatars:
+  - avatar-mas.jpg (Muhammad Ali Sheikh)
+  - avatar-sa.jpg (Shaffan Asher)
+  - avatar-fab.jpg (Faraz Ahmad Butt)
+
+MODIFIED PAGES:
+───────────────
+✓ Login Page (/app/auth/page.tsx)
+  - 2D illustration instead of 3D
+  - New BugIntel logo
+  - Removed "Professional Bug Tracking" text
+
+✓ Sidebar (components/sidebar.tsx)
+  - New BugIntel logo image
+
+✓ Top Bar (components/top-bar.tsx)
+  - Admin name: Muhammad Ali Sheikh
+  - Avatar: MAS initials
+
+✓ Settings (app/dashboard/settings/page.tsx)
+  - Admin profile: Muhammad Ali Sheikh
+  - Admin email: admin@bugintel.com
+
+✓ Developers API (app/api/developers/route.ts)
+  - 3 developers only (reduced from 5)
+  - All specified names
+
+COLOR SCHEME:
+─────────────
+Primary: Indigo (#6366F1)
+Secondary: Cyan (#22D3EE)
+Background: Navy (#050810)
+Accent: Purple (#A78BFA)
+
+RESPONSIVE:
+───────────
+Desktop: Shows login form + 2D illustration
+Mobile: Shows login form only (illustration hidden)
+Theme: Dark/Light mode fully supported
+
+═══════════════════════════════════════════════════════════════
