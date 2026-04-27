@@ -1,6 +1,5 @@
 <div align="center">
 
-<<<<<<< HEAD
 <img src="./assets/bugintel-logo.png" alt="BugIntel" width="600" />
 =======
 ```
