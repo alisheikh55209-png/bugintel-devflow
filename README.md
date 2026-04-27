@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="./assets/bugintel-logo.png" alt="BugIntel" width="600" />
-
 ### ◈ AI-POWERED BUG TRACKING INTELLIGENCE ◈
 
 [![Next.js](https://img.shields.io/badge/Next.js_16-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org)
