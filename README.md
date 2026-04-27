@@ -1,18 +1,5 @@
 <div align="center">
 
-<img src="./assets/bugintel-logo.png" alt="BugIntel" width="600" />
-=======
-```
- ██████╗ ██╗   ██╗ ██████╗ ██╗███╗   ██╗████████╗███████╗██╗
- ██╔══██╗██║   ██║██╔════╝ ██║████╗  ██║╚══██╔══╝██╔════╝██║
- ██████╔╝██║   ██║██║  ███╗██║██╔██╗ ██║   ██║   █████╗  ██║
- ██╔══██╗██║   ██║██║   ██║██║██║╚██╗██║   ██║   ██╔══╝  ██║
- ██████╔╝╚██████╔╝╚██████╔╝██║██║ ╚████║   ██║   ███████╗███████╗
- ╚═════╝  ╚═════╝  ╚═════╝ ╚═╝╚═╝  ╚═══╝   ╚═╝   ╚══════╝╚══════╝
-         ·  A I - P O W E R E D  B U G  I N T E L L I G E N C E  ·
-```
->>>>>>> 3c2b5c5f32b3aaad9c48a22d9e2e62efb01664b7
-
 ### ◈ AI-POWERED BUG TRACKING INTELLIGENCE ◈
 
 [![Next.js](https://img.shields.io/badge/Next.js_16-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org)
@@ -241,11 +228,3 @@ Chrome Mobile ████████████████████  ✓ 
    BUGINTEL  ·  Track smarter. Ship faster. Break nothing.
 ─────────────────────────────────────────────────────────────────
 ```
-
-*Built with precision using [v0](https://v0.dev) by Vercel.*
-
-<<<<<<< HEAD
-</div>
-=======
-</div>
->>>>>>> 3c2b5c5f32b3aaad9c48a22d9e2e62efb01664b7
